@@ -34,7 +34,7 @@ export default function Home() {
           className="mt-6 sm:mt-8"
         >
           <a
-            href="#jobs"
+            href="jobs"
             className="inline-block bg-amber-400 text-teal-900 font-semibold 
                        px-5 sm:px-6 py-2.5 sm:py-3 rounded-lg shadow 
                        hover:bg-amber-300 transition-colors text-sm sm:text-base md:text-lg"
