@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Software Engineer",
+    "company": "Tech Solutions Inc.",
+    "location": "San Francisco, CA",
+    "salary": "$120,000 - $150,000",
+    "type": "Full-time",
+    "applyBy": "2024-08-30",
+    "description": "Develop and maintain scalable web applications using React, Node.js, and Express."
+  },
+  {
+    "id": 2,
+    "title": "Marketing Specialist",
+    "company": "Global Brands Co.",
+    "location": "New York, NY",
+    "salary": "$60,000 - $75,000",
+    "type": "Full-time",
+    "applyBy": "2024-08-25",
+    "description": "Execute digital marketing campaigns across various channels."
+  }
+]
